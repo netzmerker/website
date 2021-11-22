@@ -18,15 +18,12 @@
     }
   ],
   "projectServerModel": "PHP",
-  "firebaseProjectID": "",
-  "herokuProjectID": "",
-  "gitURL": "",
   "targets": [
     {
       "name": "Development",
-      "remoteURL": "http://localhost:3000/",
+      "remoteURL": "http://localhost/website",
       "access": "local",
-      "localFolder": "file:///C:/Users/netzm/Entwicklung/Web/netzmerker"
+      "localFolder": "file:///C:/xampp/htdocs/website"
     }
   ],
   "activeTarget": "Development",
